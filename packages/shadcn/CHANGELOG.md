@@ -1,5 +1,11 @@
 # @shadcn/ui
 
+## 2.8.1
+
+### Patch Changes
+
+- [#7757](https://github.com/shadcn-ui/ui/pull/7757) [`db93787712fe51346bf87dbae8b4cf4e38ed8c27`](https://github.com/shadcn-ui/ui/commit/db93787712fe51346bf87dbae8b4cf4e38ed8c27) Thanks [@shadcn](https://github.com/shadcn)! - implement registry path validation
+
 ## 2.8.0
 
 ### Minor Changes
